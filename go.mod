@@ -8,7 +8,7 @@ require (
 	github.com/operator-framework/operator-sdk v0.16.1-0.20200402040752-a0a5778d9957
 	github.com/spf13/pflag v1.0.5
 	k8s.io/api v0.17.4
-	k8s.io/apimachinery v0.17.4
+	k8s.io/apimachinery v0.17.9
 	k8s.io/client-go v12.0.0+incompatible
 	sigs.k8s.io/controller-runtime v0.5.2
 )
